@@ -1,2 +1,0 @@
--In CreateEvent, create Meeting/Sports/TabletopEvent instead of just Event, and
--ProfileFragment as a whole
